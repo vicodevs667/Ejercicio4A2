@@ -15,8 +15,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.mi_propia_pantalla);
-        etPalabra.setText("Probando errores");
+
         inicializarVistas();
+        etPalabra.setText("Probando errores");
     }
 
     private void inicializarVistas() {
