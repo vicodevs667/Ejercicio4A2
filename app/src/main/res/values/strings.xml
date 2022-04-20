@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio4A2</string>
+    <string name="hint_palabra">Escribe tu Palabra:</string>
+    <string name="btn_procesar">Procesar</string>
+</resources>
